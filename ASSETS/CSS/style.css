@@ -1,7 +1,17 @@
 body{
-    background-color: aquamarine;
+    background-color: rgb(161, 0, 182);
 }
 
 div{
     background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    font-style: italic;
+}
+
+.parent{
+    display: flex;
+    align-items: center;
 }
